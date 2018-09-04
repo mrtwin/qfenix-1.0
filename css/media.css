@@ -1,0 +1,147 @@
+@media only screen and (max-width: 1174px) {
+  .nav{
+  	display: none;
+  }
+  .nav_btn {
+  	display: flex;
+  }
+section{
+	width: 50%;
+}
+.examples_container_row{
+	display: block;
+	text-align: center;
+}
+.examples_container_unit{
+	width: 50%;
+	margin: 1em auto;
+}
+}
+
+@media only screen and (max-device-width: 760px) and (min-device-height: 420px) {
+
+body{
+  	font-size: 1.4em;
+}
+h1, h2{font-size: 1.8em; font-weight: bold;}
+h3, h4{font-size: 1.6em; font-weight: normal;
+ }
+
+a.tel_media {
+	border-bottom: 0.09em dashed #dddddd;
+   }
+
+.mobile_hidden{
+	display: none;
+}
+.section_container{
+	display: block;
+}
+section{
+	width: 100%;
+}
+.section_work{display: block;}
+.nav_mini_active {
+	display: block;
+	/*margin: 10px;*/
+}
+.nav_mini {
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	top: 10vh;
+
+}
+.nav_mini a{
+	font-size: 1.5em;
+	padding: 15px 0;
+	border-bottom: 1px solid #2b606b;
+}
+.header{
+	height: 10vh;
+	font-size: 1.5em;
+}
+.logo a{ 
+	margin-top: 3vh;
+}
+.slider{
+	height: 45vh;
+}
+.slider_text{
+	top: 11vh;
+	text-align: center;
+}
+.slider_text, .slider_text_header, .slider_text_description{
+	font-size: 1.3em;
+}
+.image_container{
+	display: none;
+}
+.section_preference {
+    width: 100%;
+}
+.preference {
+    display: block;
+    }
+.service_box {
+    width: 90%;
+}
+.row_package{
+	display: block;
+}
+.package__item{
+	width: 90%;
+	margin: auto;
+	margin-bottom: 2em;
+}
+.package__item_info{
+	width: 90%;
+}
+.package__item_header, .package__item_price{
+	line-height: 3em;
+}
+/*.main_content img{
+	width: 100%;
+}*/
+form{
+	max-width: 80%;
+}
+form label{
+	font-size: 1.5em;
+}
+form input, textarea, select{
+  font-size: 1.5em; 
+}
+form input {
+    height: 2.5em;
+}
+form button{
+	font-size: 1.6em;
+}
+.checkbox{
+	width: 1em;
+	height: 1em;
+	margin-top: 1em;
+}
+.field_head{
+	font-weight: 600;
+}
+.footer{
+	text-align: center;
+	display: block;
+}
+.footer .footer_section{
+	font-size: 1.6em;
+}
+/*.footer_section .text_block{
+	display: flex;
+    justify-content: space-between;
+}*/
+
+.copyright {
+  	font-size: 1em;
+}
+
+
+
+}
