@@ -31,7 +31,7 @@ h1{
 h2{
 	font-size: 1.4em; 
 	margin-top: 60px;
-	font-weight: 600;
+	/* font-weight: 600; */
  }
 h3, h4{color: #660000; font-size: 1.2em; font-weight: normal;
  }
@@ -207,10 +207,12 @@ section{
 	margin: 0;
 	padding: 1em;
 	background: #d2d2d2;
+	/* background: linear-gradient(to top, #fae8c7, #fc7356); */
 	display: block;
 	justify-content: center;
     box-shadow: 0px 5px 9px 1px rgba(40, 40, 40, 0.35);
 	border-top: 2px solid rgb(250, 250, 250);
+	border-radius: 4px;
 }
 .brif_container_element{
 	padding: 1em;
@@ -229,7 +231,24 @@ section{
 	padding: 0 20px 0 20px;
 	display: block;
 }
-
+.run_head, .run_line{
+	text-align: center;
+	position: relative;
+}
+.run_line::before{
+	content: '';
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	width: 0;
+	height: 2px;
+	background-color: #fc7356;
+	transition: 0.2s;
+}
+.run_line:hover:before{
+	width: 100%;
+	left: 0;
+}
 .icon{
 	text-align: center;
 }
@@ -349,7 +368,26 @@ section{
 	width: 30px;
 	height: 10px;
 }
-
+.content_block{
+	margin-bottom: 2rem;
+	border: 1px solid #fc7a00;
+	border-radius: 4px;
+}
+.content_block_slave{
+	border: 1px solid #d2d2d2;
+}
+.content_block_header{
+	margin: auto;
+	margin-bottom: 1rem;
+	width: 98%;
+	font-size: 1.5rem;
+	text-align: center;
+	line-height: 3rem;
+	border-bottom: 1px solid #dddddd;
+}
+.content_block_header_slave{
+	font-size: 1.2rem;
+}
 /*========= packages ========*/
 .row_package{
 	display: flex;
@@ -366,8 +404,8 @@ section{
 	margin: auto;
 	margin-bottom: 1rem;
 	width: 90%;
-	font-size: 1rem;
-	font-weight: 600;
+	font-size: 1.3rem;
+	/* font-weight: 600; */
 	text-align: center;
 	line-height: 3rem;
 	border-bottom: 1px solid #dddddd;
