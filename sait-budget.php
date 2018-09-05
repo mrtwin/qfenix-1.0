@@ -25,7 +25,7 @@
 			<p>Это случай когда Вы можете поэтапно строить свой сайт. Скажите какую сумму Вы готовы вложить в свой сайт, а мы продумаем какие варианты структуры и дизайна можно реализовать (с учетом возможного расширения функционала сайта в будущем)</p>
 			<p>Все что Вам нужно это рассказать о своей деятельности на странице <a href="brif.php" onclick="yaCounter48765431.reachGoal('target_clickOnBrifBtn'); return true;">Заполнения брифа</a> и там же указать бюджет.</p>
 			<br>
-			<h2>А еще у нас есть готовые пакеты услуг</h2>
+			<h2>Готовые пакеты услуг</h2>
 			<div class="row_package">
 				<div class="package__item">
 					<div class="package__item_header">
@@ -65,7 +65,7 @@
 					<div class="package__item_price">3 000 руб.</div>
 				</div>
 
-				<div class="package__item">
+				<div class="package__item" style="background: #ffeee2;">
 					<div class="package__item_header">
 						пакет 5 000
 					</div>
@@ -84,7 +84,7 @@
 					<div class="package__item_price">5 000 руб.</div>
 				</div>
 
-				<div class="package__item">
+				<div class="package__item" style="background: #ffdbc5;">
 					<div class="package__item_header">
 						пакет 9 000
 					</div>

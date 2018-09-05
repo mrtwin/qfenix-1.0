@@ -13,31 +13,40 @@
 		<div class="main_content">
 			<div style="margin-top: 15vh"></div> <!-- отступ от меню -->
 			<h1>Услуги</h1>
+			<div class="brif_container" style="text-align: center; background: linear-gradient(to top, #e2fabc, #fc7356);">
+					<h2 style="margin: 0.5em">Осенний ценопад!</h2>
+					Скидки до конца октября.					
+				</div>
 			<div class="services">
+					<div class="service_box">
+							<a href="sait-budget.php"><h4>Сайт под ваш бюджет</h4></a>
+							<p>Сделаем сайт на любую сумму.</p>
+							<div class="text text_price">от <span style="text-decoration: line-through">3 000 руб.</span><span style="font-style: italic;"> 0 руб.</span></div>
+						</div>
 				<div class="service_box">
 					<a href="sait-vizitka.php"><h4>Сайт-визитка</h4></a>
 					<p>Содержит основную информацию об организации и видах услуг.</p>
-					<div class="text text_price">от 19 000 руб.</div>
+					<div class="text text_price">от <span style="text-decoration: line-through">19 000 руб.</span><span style="font-style: italic;"> 15 000 руб.</span></div>
 				</div>
 				<div class="service_box">
 					<a href="korporativnji.php"><h4>Корпоративный сайт</h4></a>
 					<p>Для большой компании, с подробным описанием услуг.</p>
-					<div class="text text_price">от 28 000 руб.</div>
+					<div class="text text_price">от <span style="text-decoration: line-through">28 000 руб.</span><span style="font-style: italic;"> 21 000 руб.</span></div>
 				</div>
 				<div class="service_box">
 					<a href="sait-katalog.php"><h4>Сайт-каталог</h4></a>
 					<p>Витрина товаров и услуг с их подробным описанием.</p>
-					<div class="text text_price">от 35 000 руб.</div>
+					<div class="text text_price">от <span style="text-decoration: line-through">35 000 руб.</span><span style="font-style: italic;"> 25 000 руб.</span></div>
 				</div>
 				<div class="service_box">
 					<a href="internet-magazin.php"><h4>Интернет-магазин</h4></a>
 					<p>Виртуальная площадка для продажи ваших товаров.</p>
-					<div class="text text_price">от 39 000 руб.</div>
+					<div class="text text_price">от <span style="text-decoration: line-through">39 000 руб.</span><span style="font-style: italic;"> 29 000 руб.</span></div>
 				</div>
 				<div class="service_box">
-					<a href="#"><h4>Лендинг</h4></a>
+					<a href="landing.php"><h4>Лендинг</h4></a>
 					<p>Превращает посетителей в покупателей.</p>
-					<div class="text text_price">от 14 000 руб.</div>
+					<div class="text text_price">от <span style="text-decoration: line-through">14 000 руб.</span><span style="font-style: italic;"> 10 000 руб.</span></div>
 				</div>
 				<div class="service_box">
 					<a href="#"><h4>Продвижение</h4></a>

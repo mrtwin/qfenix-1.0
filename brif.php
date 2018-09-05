@@ -15,7 +15,7 @@
 		<h1>Бриф на разаботку сайта</h1>
 			
 	<form id="brif">
-		<div style="text-align: center;">Заполните поля которые для Вас актуальны.</div><br>
+		<div style="text-align: center; color: red;">Заполните поля которые для Вас актуальны.</div><br>
 		<!-- <div id="note"></div> -->
 		<div id="fields">
 			<input type="hidden" name="formType" value="brif">

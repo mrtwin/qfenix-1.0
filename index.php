@@ -23,13 +23,48 @@
 	<!-- main-content -->
 	<div class="main_content">
 		
-			<h1>Создаем сайты - помогаем бизнесу</h1>
+			<!-- <h1>Создаем сайты - помогаем бизнесу</h1>
 			<div class="text">
 					<p>Наша студия стремится помочь предпринимателям, помогая им выйти со своими товарами в интернет.</p>
 					<p>Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте. При этом дизайны наших сайтов, сочетаются с их структурой. 
 					Мы считаем, что вашего клиента ничего не должно отвлекать от усвоения информации о товарах и услугах. Мы готовы предостеречь заказчиков от использования излишней анимации и неподходящей расцветки сайта. Элементы дизайна должны соответствовать вашей деятельности.</p> 
 
-			</div>
+			</div> -->
+			<!-- <div class="main_content"> -->
+		
+							<h2>Что мы делаем</h2>
+							<div class="preference" style="flex-wrap: wrap;">
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Индивидуальный дизайн</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">Мы не используем шаблоны. Наши дизайны всегда уникальны. Ваш сайт будет отличаться от конкурентов.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img src="img/icons/optimization.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продуманная структура</h4></div>
+									<div class="text_help_hidden">Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img src="img/icons/help.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Элементы маркетинга в дизайне</h4></div>
+									<div class="text_help_hidden">В наших сайтах всегда есть элементы позволяющие "зацепить" клиента, мотивирующие его на активные действия.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продвижение</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">Быстрый способ получить клиентов - рекламные компании в социальных сетях и поисковых системах.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Чистый код</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">При разработке мы не используем cms, что позволяет создавать страницы без "мусорного кода". Это сделает ваш сайт быстрым.
+									</div>
+								</div>
+							</div>
 			
 			<h2>Какой сайт Вам нужен</h2>
 		<div class="section_container">
@@ -120,8 +155,11 @@
 			<section>
 				<div class="image_container"><a href="#"><img src="img/landing.jpg"></a></div>
 				<div class="row_cell">
-					<div><a href="#"><h4>Лендинг</h4></a></div>
+					<div><a href="landing.php"><h4>Лендинг</h4></a></div>
 					<div class="text">Посадочная страница - страница с описанием конкретной услуги или товара. Цель лендинга - сбор контактных даннх целевой аудитории. Переход на страницу часто осуществляется из рекламных объявлений поисковых систем или социальных сетей.
+					</div>
+					<div>
+						<a href="landing.php" >подробнее >></a>
 					</div>
 				</div>
 			</section>
@@ -135,7 +173,7 @@
 
 	</main>
 
-			<div class="brif_container">
+	<div class="brif_container">
 		<h2>Хотите узнать стоимость Вашего сайта?</h2>
 		<div class="brif_container_element">
 			<div class="text">

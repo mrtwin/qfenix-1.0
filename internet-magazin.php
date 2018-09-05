@@ -28,42 +28,65 @@
 			Интернет-магазин это дополнительная площадка для привлечения покупателей со всего мира.</p>
 			<p>Мы создадим для вас полноценный виртуальный магазин, где вы самостоятельно сможете добавлять и менять структуру каталогов, карточки товаров, способы доставки и оплаты. Предоставим пошаговое руководство для самостоятельного создания структуры и заполнения витрины.</p>
 			<br>
-			<h2>В стоимость услуги входит:</h2>
-			<ul>
-				<li>индивидуальный дизайн;</li>
-				<li>создание и заполнение до 5 страниц (напр.: о компании, контакты, оплата и доставка и др.);</li>
-				<li>формы обратной связи</li>
-				<li>форма заказа;</li>
-				<li>слайдер;</li>
-				<li>создание структуры витрины, способов доставки и оплаты;</li>
-				<li>заполнение до 15 позиций на витрине контентом заказчика;</li>
-				<li>адаптация изображений под дизайн сайта;</li>
-				<li>доменное имя на год;</li>
-				<li>хостинг на год;</li>
-				<li>система управления сайтом;</li>
-				<li>инструкции по обслуживанию сайта.</li>
-			</ul>
-			<br>
-			<h3>Дополнительно заказывают:</h3>
-			<ul>
-				<li>регистрация сайта в поисковых системах;</li>
-				<li>установка счетчика посещаемости сайта;</li>
-				<li>создание логотипа;</li>
-				<li>поиск и обработка изображений под тематику сайта;</li>
-				<li>администрирование вашего сайта;</li>
-				<li>создание банеров рекламы товаров;</li>
-				<li>обработка видеоматериалов.</li>
-			</ul>
 
-			<div class="brif_container_element">
-				<div class="text">
-					Мы работаем на любой бюджет. Чтобы узнать точную стоимость сайта, заполните бриф.
+			<h2>Пакеты услуг</h2>
+			<div class="row_package">
+				<div class="package__item" style="width: 450px;">
+					<div class="package__item_header">
+						Light
+					</div>
+					<div class="package__item_info">
+							<div class="package__info_check"><strong>2 варианта</strong> дизайна на выбор;</div>
+							<div class="package__info_uncheck">возможность вносить правки в дизайн;</div>
+							<div class="package__info_uncheck">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>5</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">форма обратной связи</div>
+							<div class="package__info_check">банер;</div>
+							<div class="package__info_uncheck">слайдер;</div>
+							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
+							<div class="package__info_check">заполнение до <strong>15 позиций</strong> на витрине контентом заказчика;</div>
+							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
+							<div class="package__info_check">доменное имя на год;</div>
+							<div class="package__info_check">бесплатный хостинга на <strong>первый месяц</strong>;</div>
+							<div class="package__info_check">система управления сайтом;</div>
+							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
+							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							
+					</div>
+					<div class="package__item_price">15 000 руб.</div>
 				</div>
-				
-				<div class="batton batton_no_accent">
-					<a href="brif.php" onclick="yaCounter48765431.reachGoal('target_clickOnBrifBtn'); return true;">Заполнить бриф</a>
+
+				<div class="package__item" style="width: 450px; background: #ffdbc5;">
+					<div class="package__item_header">
+						Pro
+					</div>
+					<div class="package__item_info">
+							<div class="package__info_check"><strong>4 варианта</strong> дизайна на выбор;</div>
+							<div class="package__info_check">возможность вносить правки в дизайн;</div>
+							<div class="package__info_check">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>10</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">формы обратной связи</div>
+							<div class="package__info_check">банер;</div>
+							<div class="package__info_check">слайдер;</div>
+							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
+							<div class="package__info_check">заполнение до <strong>25 позиций</strong> на витрине контентом заказчика;</div>
+							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
+							<div class="package__info_check">доменное имя на год;</div>
+							<div class="package__info_check">бесплатный хостинга на <strong>год</strong>;</div>
+							<div class="package__info_check">система управления сайтом;</div>
+							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
+							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							
+					</div>
+					<div class="package__item_price">29 000 руб.</div>
 				</div>
 			</div>
+
+			<div class="brif_container_element">
+					<div class="batton">
+						<a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">Заказать сайт</a>
+					</div>
+				</div>
 			
 		</div>
 		
