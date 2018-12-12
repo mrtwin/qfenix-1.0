@@ -183,10 +183,22 @@
 				<div class="preference">
 					<div class="section_preference">
 						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
+						<div><h4>Без ПРЕДОПЛАТЫ</h4></div>
+						<div id="text_lowprice" class="text_help_hidden">Вы оплачиваете работу только после ее завершения.
+						</div>
+					</div>
+					<div class="section_preference">
+						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
+						<div><h4>Снижение рисков</h4></div>
+						<div id="text_lowprice" class="text_help_hidden">После каждого <a href="uslugi.php/#how_to_work" target="_blank">этапа</a> разработки Вы получаете результаты на руки.
+						</div>
+					</div>
+					<!-- <div class="section_preference">
+						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
 						<div><h4>Снижение себестоимости</h4></div>
 						<div id="text_lowprice" class="text_help_hidden">У нас нет офиса. И это хорошо! Отсутствуют затраты на его аренду. Потому и Вы не платите лишнего.
 						</div>
-					</div>
+					</div> -->
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/optimization.png"></div>
 						<div><h4>Оптимизация разработки </h4></div>
