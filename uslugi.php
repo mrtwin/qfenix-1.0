@@ -72,7 +72,7 @@
 			<div class="section_work">
 				<div class="step_header"><h3>1. Обсуждение</h3></div>
 				<div class="step_text">
-					Позвоните нам по телефону или заполните <a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">форму заказа</a>. Мы свяжемся с вами, обсудим концепцию сайта и пожелания к проекту. 
+					Заполните <a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">форму заказа</a>. Мы свяжемся с вами, обсудим концепцию сайта и пожелания к проекту. 
 					Озвучим стоимость всех работ.
 				</div>
 			</div>

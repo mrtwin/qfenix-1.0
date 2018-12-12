@@ -2,7 +2,7 @@
 		<div class="footer_section">
 			<div class="section_header">Контакты</div>
 			<div class="text">
-				<a href="tel:+79871090503" class="dot tel_media">+7(987) 109-05-03</a><br><br>
+				<!-- <a href="tel:+79871090503" class="dot tel_media">+7(987) 109-05-03</a><br><br> -->
 				info@qfenix.ru; <br>qfenixstd@yandex.ru<br><br>
 			</div>
 		</div>

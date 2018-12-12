@@ -16,7 +16,8 @@
 			<a href="landing.php">Лендинг</a>
 		</div>
 		<div class="header_contacts">
-			<p><a href="tel:+79871090503" class="dot tel_media" onclick="yaCounter48765431.reachGoal('target_clickOnHeaderTel'); return true;">+7(987) 109-05-03</a></p>
+			<!-- <p><a href="tel:+79871090503" class="dot tel_media" onclick="yaCounter48765431.reachGoal('target_clickOnHeaderTel'); return true;">+7(987) 109-05-03</a></p> -->
+			<p>info@qfenix.ru</p>
 		</div>
 		<div class="nav_btn">Меню
 			<!-- <a href="#" id="nav_btn" >Меню</a>  -->
