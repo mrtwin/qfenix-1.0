@@ -1,4 +1,4 @@
-<?php include 'head.php' ?>
+﻿<?php include 'head.php' ?>
 
 <title>Разработка сайтов | Fenix</title>
 <meta name="description" content="Создадим сайт для вашего бизнеса. От 7000 р. Сайт-визитка, корпоративный сайт, сайт-каталог, интернет-магазин."/>
@@ -9,12 +9,11 @@
 
 	<div class="slider" style="background: url(img/main.jpg);background-size: cover;">
 		<div class="slider_text">
-			<h1 style="text-align: left;">
-				<div class="slider_text_header">Разработка сайтов</div>
+			<div class="slider_text_header">Разработка сайтов</div>
 			<div class="slider_text_description">От визитки до магазина</div>
-			</h1>
+			<br>
 			<div class="batton">
-				<a href="#getSite" class="popup">Заказать сайт</a>
+				<a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">Заказать сайт</a>
 			</div>
 		</div>
 	</div>
@@ -24,41 +23,48 @@
 	<!-- main-content -->
 	<div class="main_content">
 		
-		<div class="main_content">
-				<h2>Что мы делаем</h2>
-				<div class="preference" style="flex-wrap: wrap;">
-					<div class="section_preference">
-						<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
-						<div class="run_head"><h4 class="run_line" style="display: inline-block;">Индивидуальный дизайн</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">Мы не используем шаблоны. Наши дизайны всегда уникальны. Ваш сайт будет отличаться от конкурентов.
-						</div>
-					</div>
-					<div class="section_preference">
-						<!-- <div class="icon"><img src="img/icons/optimization.png"></div> -->
-						<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продуманная структура</h4></div>
-						<div class="text_help_hidden">Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте.
-						</div>
-					</div>
-					<div class="section_preference">
-						<!-- <div class="icon"><img src="img/icons/help.png"></div> -->
-						<div class="run_head"><h4 class="run_line" style="display: inline-block;">Элементы маркетинга в дизайне</h4></div>
-						<div class="text_help_hidden">В наших сайтах всегда есть элементы позволяющие "зацепить" клиента, мотивирующие его на активные действия.
-						</div>
-					</div>
-					<div class="section_preference">
-						<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
-						<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продвижение</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">Быстрый способ получить клиентов - рекламные компании в социальных сетях и поисковых системах.
-						</div>
-					</div>
-					<div class="section_preference">
-						<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
-						<div class="run_head"><h4 class="run_line" style="display: inline-block;">Чистый код</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">При разработке мы не используем cms, что позволяет создавать страницы без "мусорного кода". Это сделает ваш сайт быстрым.
-						</div>
-					</div>
-				</div>
-		</div>
+			<!-- <h1>Создаем сайты - помогаем бизнесу</h1>
+			<div class="text">
+					<p>Наша студия стремится помочь предпринимателям, помогая им выйти со своими товарами в интернет.</p>
+					<p>Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте. При этом дизайны наших сайтов, сочетаются с их структурой. 
+					Мы считаем, что вашего клиента ничего не должно отвлекать от усвоения информации о товарах и услугах. Мы готовы предостеречь заказчиков от использования излишней анимации и неподходящей расцветки сайта. Элементы дизайна должны соответствовать вашей деятельности.</p> 
+
+			</div> -->
+			<!-- <div class="main_content"> -->
+		
+							<h2>Что мы делаем</h2>
+							<div class="preference" style="flex-wrap: wrap;">
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Индивидуальный дизайн</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">Мы не используем шаблоны. Наши дизайны всегда уникальны. Ваш сайт будет отличаться от конкурентов.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img src="img/icons/optimization.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продуманная структура</h4></div>
+									<div class="text_help_hidden">Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img src="img/icons/help.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Элементы маркетинга в дизайне</h4></div>
+									<div class="text_help_hidden">В наших сайтах всегда есть элементы позволяющие "зацепить" клиента, мотивирующие его на активные действия.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продвижение</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">Быстрый способ получить клиентов - рекламные компании в социальных сетях и поисковых системах.
+									</div>
+								</div>
+								<div class="section_preference">
+									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
+									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Чистый код</h4></div>
+									<div id="text_lowprice" class="text_help_hidden">При разработке мы не используем cms, что позволяет создавать страницы без "мусорного кода". Это сделает ваш сайт быстрым.
+									</div>
+								</div>
+							</div>
 			
 			<h2>Какой сайт Вам нужен</h2>
 		<div class="section_container">
@@ -69,8 +75,11 @@
 					<div class="text">Мы всегда готовы познакомиться с новым клиентом на удобных для него условиях. И для Вас создадим стартовый сайт БЕСПЛАТНО.
 					</div>
 					<div>
-						<a href="sait-free.php" >подробнее >></a>
+						<a href="sait-free.php">подробнее >></a>
 					</div>
+					<!-- <div class="batton batton_no_accent" style="margin-left: 0;">
+						<a href="sait-free.php">Подробнее</a>
+					</div> -->
 				</div>
 			</section>
 			<section>
@@ -80,8 +89,11 @@
 					<div class="text">Мы делаем сайты под разные бюджеты. Определите максимальную и минимальную рамку для своего проекта чтобы мы подготовили оптимальное решение.
 					</div>
 					<div>
-						<a href="sait-budget.php" >подробнее >></a>
+						<a href="sait-budget.php">подробнее >></a>
 					</div>
+					<!-- <div class="batton batton_no_accent">
+						<a href="sait-budget.php">Подробнее</a>
+					</div> -->
 				</div>
 			</section>
 			<section>
@@ -91,7 +103,7 @@
 					<div class="text">Небольшой сайт из 4-10 страниц. Содержит основную информацию об организации и видах ее деятельности. Подойдет небольшим и начинающим компаниям, чтобы заявить о своем присутствии на рынке услуг.
 					</div>
 					<div>
-						<a href="sait-vizitka.php" >подробнее >></a>
+						<a href="sait-vizitka.php">подробнее >></a>
 					</div>
 					<!-- <div class="batton batton_no_accent">
 						<a href="sait-vizitka.php">Подробнее</a>
@@ -105,7 +117,7 @@
 					<div class="text">Содержит подробную информацию о компании и услугах. Подойдет как небольшим компаниям, так и значительным производственным предприятиям. Количество страниц неограничено.
 					</div>
 					<div>
-						<a href="korporativnji.php" >подробнее >></a>
+						<a href="korporativnji.php">подробнее >></a>
 					</div>
 					<!-- <div class="batton batton_no_accent">
 						<a href="korporativnji.php">Подробнее</a>
@@ -119,7 +131,7 @@
 					<div class="text">Сайт с подробным описанием товаров и услуг, которые невозможно поместить в прайс-лист. Схож с интернет-магазином, но без возможности онлайн оплаты.
 					</div>
 					<div>
-						<a href="sait-katalog.php" >подробнее >></a>
+						<a href="sait-katalog.php">подробнее >></a>
 					</div>
 					<!-- <div class="batton batton_no_accent">
 						<a href="sait-katalog.php">Подробнее</a>
@@ -133,7 +145,7 @@
 					<div class="text">Сайт с каталогом продукции и функцией приема платежей. Необходимый для заказа и продажи товаров или услуг через интернет.
 					</div>
 					<div>
-						<a href="internet-magazin.php" >подробнее >></a>
+						<a href="internet-magazin.php">подробнее >></a>
 					</div>
 					<!-- <div class="batton batton_no_accent">
 						<a href="internet-magazin.php">Подробнее</a>
@@ -161,14 +173,14 @@
 
 	</main>
 
-			<div class="brif_container">
+	<div class="brif_container">
 		<h2>Хотите узнать стоимость Вашего сайта?</h2>
 		<div class="brif_container_element">
 			<div class="text">
 				Мы работаем на любой бюджет. Чтобы узнать точную стоимость сайта, заполните бриф.
 			</div>
 			
-			<div class="batton batton_no_accent">
+			<div class="batton batton_no_accent" onclick="yaCounter48765431.reachGoal('target_clickOnBrifBtn'); return true;">
 				<a href="brif.php">Заполнить бриф</a>
 			</div>
 		</div>
@@ -217,7 +229,7 @@
 			</div>
 	</div>		
 		
-	<div class="examples_container">
+	<!-- <div class="examples_container">
 		<h2>Последние работы</h2>
 		<div class="example_row">
 			<div class="examlpe_element">
@@ -247,7 +259,7 @@
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 	
 <!--=== footer ===-->
 <?php include 'footer.php' ?>

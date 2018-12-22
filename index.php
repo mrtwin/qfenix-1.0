@@ -75,7 +75,7 @@
 					<div class="text">Мы всегда готовы познакомиться с новым клиентом на удобных для него условиях. И для Вас создадим стартовый сайт БЕСПЛАТНО.
 					</div>
 					<div>
-						<a href="sait-free.php">подробнее >></a>
+						<a href="sait-free.php">подробнее</a>
 					</div>
 					<!-- <div class="batton batton_no_accent" style="margin-left: 0;">
 						<a href="sait-free.php">Подробнее</a>
@@ -200,9 +200,9 @@
 						</div>
 					</div>
 					<div class="section_preference">
-						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
+						<div class="icon"><img id="lowprice" src="img/icons/notrisk.png"></div>
 						<div><h4>Снижение рисков</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">После каждого <a href="uslugi.php/#how_to_work" target="_blank">этапа</a> разработки Вы получаете результаты на руки.
+						<div id="text_lowprice" class="text_help_hidden">После каждого <a href="uslugi.php#how_to_work" target="_blank">этапа</a> разработки Вы получаете результаты на руки.
 						</div>
 					</div>
 					<!-- <div class="section_preference">
@@ -217,14 +217,14 @@
 						<div class="text_help_hidden">При создании сайтов мы используем ранее разработанные методы и технологии, что позволяет снизить затраты и предложить вам удобную цену.
 						</div>
 					</div>
+				</div>
+				<div class="preference">
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/help.png"></div>
 						<div><h4>Консультации</h4></div>
 						<div class="text_help_hidden">Помогаем ориентироваться в дебрях интернет технологий. Вместе составим техническое задание. Предоставим инструкции по обслуживанию сайта.
 						</div>
 					</div>
-				</div>
-				<div class="preference">
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/admin.png"></div>
 						<div><h4>Сопровождение</h4></div>
