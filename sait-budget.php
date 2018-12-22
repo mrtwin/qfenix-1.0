@@ -27,9 +27,9 @@
 			<br>
 			<h2>Готовые пакеты услуг</h2>
 			<div class="row_package">
-				<div class="package__item">
+				<!-- <div class="package__item">
 					<div class="package__item_header">
-						пакет 0
+						пакет 2 000
 					</div>
 					<div class="package__item_info">
 						<div class="package__info_check">дизайн на усмотрение исполнителя</div>
@@ -43,8 +43,8 @@
 						<div class="package__info_uncheck">бесплатный хостинг: 1 мес.</div>
 						<div class="package__info_uncheck">регистрация сайта в поисковых системах</div>
 					</div>
-					<div class="package__item_price"><a href="sait-free.php" target="_blank">Бесплатно</a></div>
-				</div>
+					<div class="package__item_price">2 000 руб.</div>
+				</div> -->
 
 				<div class="package__item">
 					<div class="package__item_header">
