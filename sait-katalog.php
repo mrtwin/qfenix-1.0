@@ -43,22 +43,22 @@
 					<li>доменное имя на год;</li>
 					<li>хостинг на год;</li>
 					<li>система управления сайтом;</li>
+					<li>регистрация сайта в поисковых системах;</li>
+					<li>установка счетчика посещаемости сайта;</li>
 					<li>инструкции по обслуживанию сайта.</li>
 				</ul>
 			</div>
 			<br>
-			<div class="content_block content_block_slave">
+			<!-- <div class="content_block content_block_slave">
 				<div class="content_block_header content_block_header_slave">Дополнительно заказывают:</div>
 				<ul>
-					<li>регистрация сайта в поисковых системах;</li>
-					<li>установка счетчика посещаемости сайта;</li>
 					<li>создание логотипа;</li>
 					<li>поиск и обработка изображений под тематику сайта;</li>
 					<li>администрирование вашего сайта;</li>
 					<li>создание рекламного ролика;</li>
 					<li>обработка видеоматериалов.</li>
 				</ul>
-			</div>
+			</div> -->
 
 			<div class="brif_container_element">
 				<div class="text">

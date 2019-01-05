@@ -41,7 +41,7 @@
 				</ul>
 			</div>
 
-			<div class="content_block content_block_slave">
+			<!-- <div class="content_block content_block_slave">
 				<div class="content_block_header content_block_header_slave">Дополнительно заказывают:</div>
 				<ul>
 					<li>установка счетчика посещаемости сайта</li>
@@ -52,7 +52,7 @@
 					<li>создание рекламного ролика</li>
 					<li>обработка видеоматериалов</li>
 				</ul>
-			</div>
+			</div> -->
 			
 
 			<div class="brif_container_element">
