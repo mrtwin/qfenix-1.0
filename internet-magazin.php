@@ -31,7 +31,7 @@
 
 			<h2>Пакеты услуг</h2>
 			<div class="row_package">
-				<div class="package__item" style="width: 450px;">
+				<div class="package__item">
 					<div class="package__item_header">
 						Light
 					</div>
@@ -56,7 +56,7 @@
 					<div class="package__item_price">15 000 руб.</div>
 				</div>
 
-				<div class="package__item" style="width: 450px; background: #ffdbc5;">
+				<div class="package__item" style="background: #ffdbc5;">
 					<div class="package__item_header">
 						Pro
 					</div>

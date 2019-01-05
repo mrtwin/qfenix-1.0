@@ -18,7 +18,7 @@
 		</div>
 	</div>
 	
-	<main class="main">
+	<div class="main">
 		
 	<!-- main-content -->
 	<div class="main_content">
@@ -33,42 +33,42 @@
 			<!-- <div class="main_content"> -->
 		
 							<h2>Что мы делаем</h2>
-							<div class="preference" style="flex-wrap: wrap;">
-								<div class="section_preference">
+							<div class="wedo" style="flex-wrap: wrap;">
+								<div class="section_wedo">
 									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
 									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Индивидуальный дизайн</h4></div>
-									<div id="text_lowprice" class="text_help_hidden">Мы не используем шаблоны. Наши дизайны всегда уникальны. Ваш сайт будет отличаться от конкурентов.
+									<div class="text">Мы не используем шаблоны. Наши дизайны всегда уникальны. Ваш сайт будет отличаться от конкурентов.
 									</div>
 								</div>
-								<div class="section_preference">
+								<div class="section_wedo">
 									<!-- <div class="icon"><img src="img/icons/optimization.png"></div> -->
 									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продуманная структура</h4></div>
-									<div class="text_help_hidden">Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте.
+									<div class="text">Мы не просто создаем веб-страницы, мы делаем удобную структуру, которая не позволит заблудиться покупателю на сайте.
 									</div>
 								</div>
-								<div class="section_preference">
+								<div class="section_wedo">
 									<!-- <div class="icon"><img src="img/icons/help.png"></div> -->
 									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Элементы маркетинга в дизайне</h4></div>
-									<div class="text_help_hidden">В наших сайтах всегда есть элементы позволяющие "зацепить" клиента, мотивирующие его на активные действия.
+									<div class="text">В наших сайтах всегда есть элементы позволяющие "зацепить" клиента, мотивирующие его на активные действия.
 									</div>
 								</div>
-								<div class="section_preference">
+								<div class="section_wedo">
 									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
 									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Продвижение</h4></div>
-									<div id="text_lowprice" class="text_help_hidden">Быстрый способ получить клиентов - рекламные компании в социальных сетях и поисковых системах.
+									<div class="text">Быстрый способ получить клиентов - рекламные компании в социальных сетях и поисковых системах.
 									</div>
 								</div>
-								<div class="section_preference">
+								<div class="section_wedo">
 									<!-- <div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div> -->
 									<div class="run_head"><h4 class="run_line" style="display: inline-block;">Чистый код</h4></div>
-									<div id="text_lowprice" class="text_help_hidden">При разработке мы не используем cms, что позволяет создавать страницы без "мусорного кода". Это сделает ваш сайт быстрым.
+									<div class="text">При разработке мы не используем cms, что позволяет создавать страницы без "мусорного кода". Это сделает ваш сайт быстрым.
 									</div>
 								</div>
 							</div>
 			
 			<h2>Какой сайт Вам нужен</h2>
 		<div class="section_container">
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="sait-free.php"><img src="img/free_min.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="sait-free.php"><h4>Одностраничник</h4></a></div>
@@ -82,7 +82,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="sait-budget.php"><img src="img/budget_min.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="sait-budget.php"><h4>Сайт под Ваш бюджет</h4></a></div>
@@ -96,7 +96,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="sait-vizitka.php"><img src="img/СайтВизиткаПревью.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="sait-vizitka.php"><h4>Сайт-визитка</h4></a></div>
@@ -110,7 +110,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="korporativnji.php"><img src="img/СайтКорпоративныйПревью-2.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="korporativnji.php"><h4>Корпоративный сайт</h4></a></div>
@@ -124,7 +124,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="sait-katalog.php"><img src="img/СайтКаталогПревью.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="sait-katalog.php"><h4>Сайт-каталог</h4></a></div>
@@ -138,7 +138,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="internet-magazin.php"><img src="img/СайтИнтернетМагазинПревью.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="internet-magazin.php"><h4>Интернет-магазин</h4></a></div>
@@ -152,7 +152,7 @@
 					</div> -->
 				</div>
 			</section>
-			<section>
+			<section class="section_sites">
 				<div class="image_container"><a href="#"><img src="img/landing.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="landing.php"><h4>Лендинг</h4></a></div>
@@ -167,11 +167,7 @@
 
 	</div>
 
-
-
-
-
-	</main>
+	</div>
 
 	<div class="brif_container">
 		<h2>Хотите узнать стоимость Вашего сайта?</h2>
@@ -187,7 +183,7 @@
 		
 	</div>	
 
-	<div class="pref_container">
+	<div class="main">
 	
 	<!-- preference -->
 			<div class="main_content">
@@ -196,25 +192,25 @@
 					<div class="section_preference">
 						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
 						<div><h4>Без ПРЕДОПЛАТЫ</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">Вы оплачиваете работу только после ее завершения.
+						<div id="text_lowprice" class="text">Вы оплачиваете работу только после ее завершения.
 						</div>
 					</div>
 					<div class="section_preference">
 						<div class="icon"><img id="lowprice" src="img/icons/notrisk.png"></div>
 						<div><h4>Снижение рисков</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">После каждого <a href="uslugi.php#how_to_work" target="_blank">этапа</a> разработки Вы получаете результаты на руки.
+						<div id="text_lowprice" class="text">После каждого <a href="uslugi.php#how_to_work" target="_blank">этапа</a> разработки Вы получаете результаты на руки.
 						</div>
 					</div>
 					<!-- <div class="section_preference">
 						<div class="icon"><img id="lowprice" src="img/icons/lowprice.png"></div>
 						<div><h4>Снижение себестоимости</h4></div>
-						<div id="text_lowprice" class="text_help_hidden">У нас нет офиса. И это хорошо! Отсутствуют затраты на его аренду. Потому и Вы не платите лишнего.
+						<div id="text_lowprice" class="text">У нас нет офиса. И это хорошо! Отсутствуют затраты на его аренду. Потому и Вы не платите лишнего.
 						</div>
 					</div> -->
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/optimization.png"></div>
 						<div><h4>Оптимизация разработки </h4></div>
-						<div class="text_help_hidden">При создании сайтов мы используем ранее разработанные методы и технологии, что позволяет снизить затраты и предложить вам удобную цену.
+						<div class="text">При создании сайтов мы используем ранее разработанные методы и технологии, что позволяет снизить затраты и предложить вам удобную цену.
 						</div>
 					</div>
 				</div>
@@ -222,19 +218,19 @@
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/help.png"></div>
 						<div><h4>Консультации</h4></div>
-						<div class="text_help_hidden">Помогаем ориентироваться в дебрях интернет технологий. Вместе составим техническое задание. Предоставим инструкции по обслуживанию сайта.
+						<div class="text">Помогаем ориентироваться в дебрях интернет технологий. Вместе составим техническое задание. Предоставим инструкции по обслуживанию сайта.
 						</div>
 					</div>
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/admin.png"></div>
 						<div><h4>Сопровождение</h4></div>
-						<div class="text_help_hidden">У вас нет времени на сопровождение сайта? Мы готовы взять на себя администрирование вашего сайта.
+						<div class="text">У вас нет времени на сопровождение сайта? Мы готовы взять на себя администрирование вашего сайта.
 						</div>
 					</div>
 					<div class="section_preference">
 						<div class="icon"><img src="img/icons/adaptive.png"></div>
 						<div><h4>Отзывчивость</h4></div>
-						<div class="text_help_hidden">Наши сайты адаптивны. Они будут подстраиваться под экраны компьютеров планшетов и смартфонов.
+						<div class="text">Наши сайты адаптивны. Они будут подстраиваться под экраны компьютеров планшетов и смартфонов.
 						</div>
 					</div>
 				</div>

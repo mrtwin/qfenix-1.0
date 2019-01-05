@@ -5,7 +5,7 @@
   .nav_btn {
   	display: flex;
   }
-section{
+.section_sites{
 	width: 50%;
 }
 .examples_container_row{
@@ -21,12 +21,14 @@ section{
 @media only screen and (max-device-width: 760px) and (min-device-height: 420px) {
 
 body{
-  	font-size: 1.4em;
+  	/* font-size: 18px; */
 }
 h1, h2{font-size: 1.8em; font-weight: bold;}
 h3, h4{font-size: 1.6em; font-weight: normal;
  }
-
+.text{
+	font-size: 1.3rem;
+}
 a.tel_media {
 	border-bottom: 0.09em dashed #dddddd;
    }
@@ -37,13 +39,17 @@ a.tel_media {
 .section_container{
 	display: block;
 }
-section{
-	width: 100%;
+.section_sites, .section_preference{
+	width: 98%;
+	margin: 1rem 0;
 }
 .section_work{display: block;}
 .nav_mini_active {
 	display: block;
 	/*margin: 10px;*/
+}
+.section_wedo{
+	width: 100%;
 }
 .nav_mini {
 	padding: 0;
@@ -59,10 +65,10 @@ section{
 }
 .header{
 	height: 10vh;
-	font-size: 1.5em;
+	/* font-size: 1.5em; */
 }
 .logo a{ 
-	margin-top: 3vh;
+	/* margin-top: 3vh; */
 }
 .slider{
 	height: 45vh;
@@ -71,14 +77,18 @@ section{
 	top: 11vh;
 	text-align: center;
 }
-.slider_text, .slider_text_header, .slider_text_description{
-	font-size: 1.3em;
+.slider_text, .slider_text_header{
+	/* font-size: 1.3rem; */
+}
+.slider_text_description{
+
 }
 .image_container{
 	display: none;
 }
 .section_preference {
-    width: 100%;
+	width: 100%;
+	margin: 0;
 }
 .preference {
     display: block;
