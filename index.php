@@ -237,37 +237,71 @@
 			</div>
 	</div>		
 		
-	<!-- <div class="examples_container">
+	<div id="examples" class="examples_container">
 		<h2>Последние работы</h2>
 		<div class="example_row">
 			<div class="examlpe_element">
 				<div class="example_img">
-					<img src="img/budget_min.jpg" alt="">
+					<img src="img/cases/beauty_shop-min.jpg" alt="Landing Page для салона красоты">
 				</div>
 				<div class="example_desc">
-					<p>Сайт-визитка для строительной компании</p>
-					<p><a href="#examples_container" class="lookme">посмотреть</a></p>
+					<p>Landing Page для салона красоты</p>
+					<p><a href="case-beauty_shop.php" class="lookme">посмотреть</a></p>
 				</div>
 			</div>
 			<div class="examlpe_element">
 				<div class="example_img">
-					<img src="img/budget_min.jpg" alt="">
+					<img src="img/cases/mouse-min.jpg" alt="Landing Page для продажи игровых мышек">
 				</div>
 				<div class="example_desc">
-					<p>"Мышиный" лендинг</p>
+					<p>Landing Page для продажи игровых мышек</p>
+					<p><a href="case-mouse.php" class="lookme">посмотреть</a></p>
 				</div>
 			</div>
 			<div class="examlpe_element">
 				<div class="example_img">
-					<img src="img/budget_min.jpg" alt="">
+					<img src="img/cases/kv_metrj-min.jpg" alt="Корпоративный сайт для магазина стройматериалов">
 				</div>
 				<div class="example_desc">
-					<p>Сайт-визитка для строительной компании</p>
+					<p>Корпоративный сайт для магазина строительных материалов</p>
+					<p><a href="case-kv_metrj.php" class="lookme">посмотреть</a></p>
 				</div>
 			</div>
 		</div>
 
-	</div> -->
+		<div class="example_row">
+			<div class="examlpe_element">
+				<div class="example_img">
+					<img src="img/cases/artkamin-min.jpg" alt="Сайт-каталог для магазина каминов">
+				</div>
+				<div class="example_desc">
+					<p>Сайт-каталог для магазина каминов</p>
+					<p><a href="case-artkamin.php" class="lookme">посмотреть</a></p>
+				</div>
+			</div>
+
+			<div class="examlpe_element">
+				<div class="example_img">
+					<img src="img/cases/bashprompol-min.jpg" alt="Сайт-визитка для строительной компании">
+				</div>
+				<div class="example_desc">
+					<p>Сайт-визитка для строительной компании</p>
+					<p><a href="case-bashprompol.php" class="lookme">посмотреть</a></p>
+				</div>
+			</div>
+
+			<div class="examlpe_element">
+				<div class="example_img">
+					<img src="img/cases/sintez_remont-min.jpg" alt="Корпоративный сайт для строительной компании">
+				</div>
+				<div class="example_desc">
+					<p>Корпоративный сайт для строительной компании</p>
+					<p><a href="case-sintez_remont.php" class="lookme">посмотреть</a></p>
+				</div>
+			</div>
+		</div>
+
+	</div>
 	
 <!--=== footer ===-->
 <?php include 'footer.php' ?>
