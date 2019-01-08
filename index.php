@@ -68,7 +68,7 @@
 			
 			<h2>Какой сайт Вам нужен</h2>
 		<div class="section_container">
-			<section class="section_sites">
+			<!-- <section class="section_sites">
 				<div class="image_container"><a href="sait-free.php"><img src="img/free_min.jpg"></a></div>
 				<div class="row_cell">
 					<div><a href="sait-free.php"><h4>Одностраничник</h4></a></div>
@@ -77,11 +77,8 @@
 					<div>
 						<a href="sait-free.php">подробнее</a>
 					</div>
-					<!-- <div class="batton batton_no_accent" style="margin-left: 0;">
-						<a href="sait-free.php">Подробнее</a>
-					</div> -->
 				</div>
-			</section>
+			</section> -->
 			<section class="section_sites">
 				<div class="image_container"><a href="sait-budget.php"><img src="img/budget_min.jpg"></a></div>
 				<div class="row_cell">
