@@ -519,6 +519,24 @@ border: 1px solid rgba(252, 122, 0, 0.59);
 	border-bottom: 1px solid #dddddd;
 	text-align: center;
 }
+.section_content{
+	margin: 30px 0 30px 0;
+}
+.contact_row{
+	display: flex;
+	margin-bottom: 0.5rem;
+}
+.contact_row img{
+	width: 1.3rem;
+	margin-right: 0.5rem;
+}
+.contact_row a{
+	color: inherit;
+	border-bottom: 0.1rem dashed;
+}
+
+
+
 .hidden{
 	display: none;
 }

@@ -1,16 +1,35 @@
 	<div class="footer">
 		<div class="footer_section">
 			<div class="section_header">Контакты</div>
-			<div class="text">
-				<!-- <a href="tel:+79871090503" class="dot tel_media">+7(987) 109-05-03</a><br><br> -->
-				info@qfenix.ru; <br>qfenixstd@yandex.ru<br><br>
+			<div class="section_content">
+				<div class="contact_row">
+				<div><img src="img/icons/mail.png"></div>
+				<div>info@qfenix.ru</div>
+				</div>
+				<div class="contact_row">
+					<div><img src="img/icons/mail.png"></div>
+					<div>qfenixstd@yandex.ru</div>
+				</div>
+				<div class="contact_row">
+					<div><img src="img/icons/instagram.png"></div>
+					<div> <a href="https://www.instagram.com/qfenix.ru" target="_blanck">qfenix.ru</a></div>
+				</div>
 			</div>
+				<!-- --<a href="tel:+79871090503" class="dot tel_media">+7(987) 109-05-03</a><br><br> -->
+			
 		</div>
+
 		<div class="footer_section">
 			<div class="mobile_hidden section_header">Обратная связь</div>
-			<div class="text">
-				<a href="#sendMsg" class="popup dot">Задать вопрос</a>  <br><br>
-				<a href="#getSite" class="popup dot">Заказать сайт</a>
+			<div class="section_content">
+				<div class="contact_row">
+				<!-- <div><img src="img/icons/mail.png"></div> -->
+				<div><a href="#sendMsg" class="popup dot">Задать вопрос</a></div>
+				</div>
+				<div class="contact_row">
+					<!-- <div><img src="img/icons/mail.png"></div> -->
+					<div><a href="#getSite" class="popup dot">Заказать сайт</a></div>
+				</div>
 			</div>
 		</div>
 	</div>
