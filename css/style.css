@@ -15,7 +15,7 @@ a{text-decoration: none;}
 a.dot {
 	color: inherit;
 	text-decoration: none;
-	border-bottom: 0.1rem dashed #dddddd;
+	border-bottom: 1px dashed #dddddd;
    }
 a.tel_media {
 	border-bottom: none;
@@ -172,7 +172,7 @@ a.nav_current{
 }
 .main_content a{
 	color: #fc7356;
-	border-bottom: 0.1em dashed #fc7356;
+	border-bottom: 1px dashed #fc7356;
 }
 .image_container{
 	text-align: center;
@@ -532,7 +532,7 @@ border: 1px solid rgba(252, 122, 0, 0.59);
 }
 .contact_row a{
 	color: inherit;
-	border-bottom: 0.1rem dashed;
+	border-bottom: 1px dashed;
 }
 
 

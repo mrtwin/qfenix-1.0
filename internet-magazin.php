@@ -36,21 +36,21 @@
 						Light
 					</div>
 					<div class="package__item_info">
-							<div class="package__info_check"><strong>2 варианта</strong> дизайна на выбор;</div>
-							<div class="package__info_uncheck">возможность вносить правки в дизайн;</div>
+							<div class="package__info_check">адаптивный дизайн;</div>
 							<div class="package__info_uncheck">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
 							<div class="package__info_check">создание и заполнение до <strong>5</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
-							<div class="package__info_check">форма обратной связи</div>
+							<div class="package__info_check">1 форма обратной связи</div>
 							<div class="package__info_check">банер;</div>
 							<div class="package__info_uncheck">слайдер;</div>
 							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
 							<div class="package__info_check">заполнение до <strong>15 позиций</strong> на витрине контентом заказчика;</div>
 							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
 							<div class="package__info_check">доменное имя на год;</div>
-							<div class="package__info_check">бесплатный хостинга на <strong>первый месяц</strong>;</div>
+							<div class="package__info_check">бесплатный хостинга на <strong>месяц</strong>;</div>
 							<div class="package__info_check">система управления сайтом;</div>
 							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
 							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							<div class="package__info_uncheck">сопровождение 1 месяц</div>
 							
 					</div>
 					<div class="package__item_price">15 000 руб.</div>
@@ -61,8 +61,7 @@
 						Pro
 					</div>
 					<div class="package__item_info">
-							<div class="package__info_check"><strong>4 варианта</strong> дизайна на выбор;</div>
-							<div class="package__info_check">возможность вносить правки в дизайн;</div>
+							<div class="package__info_check">адаптивный дизайн;</div>
 							<div class="package__info_check">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
 							<div class="package__info_check">создание и заполнение до <strong>10</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
 							<div class="package__info_check">формы обратной связи</div>
@@ -76,6 +75,7 @@
 							<div class="package__info_check">система управления сайтом;</div>
 							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
 							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							<div class="package__info_check">сопровождение 1 месяц</div>
 							
 					</div>
 					<div class="package__item_price">29 000 руб.</div>

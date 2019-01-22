@@ -29,36 +29,59 @@
 			<p>Предлагаем свои услуги по разработке сайта-каталога.
 			Мы возьмем на себя трудоемкий процесс создания структуры каталога, характеристик, подгонку фотографий под стиль сайта. Предоставим пошаговое руководство для самостоятельного создания структуры и заполнения витрины.</p>
 			<br>
-			<div class="content_block">
-				<div class="content_block_header">В стоимость услуги входит:</div>
-				<ul>
-					<li>индивидуальный дизайн;</li>
-					<li>создание и заполнение до 5 страниц (напр.: о компании, контакты, оплата и доставка и др.);</li>
-					<li>формы обратной связи</li>
-					<li>форма заказа;</li>
-					<li>слайдер;</li>
-					<li>создание структуры витрины;</li>
-					<li>заполнение до 15 позиций на витрине контентом заказчика;</li>
-					<li>адаптация изображений под дизайн сайта;</li>
-					<li>доменное имя на год;</li>
-					<li>хостинг на год;</li>
-					<li>система управления сайтом;</li>
-					<li>регистрация сайта в поисковых системах;</li>
-					<li>установка счетчика посещаемости сайта;</li>
-					<li>инструкции по обслуживанию сайта.</li>
-				</ul>
+
+			<h2>Пакеты услуг</h2>
+			<div class="row_package">
+				<div class="package__item">
+					<div class="package__item_header">
+						Light
+					</div>
+					<div class="package__item_info">
+							<div class="package__info_check">адаптивный дизайн;</div>
+							<div class="package__info_uncheck">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>5</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">1 форма обратной связи</div>
+							<div class="package__info_check">банер;</div>
+							<div class="package__info_uncheck">слайдер;</div>
+							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
+							<div class="package__info_check">заполнение до <strong>15 позиций</strong> на витрине контентом заказчика;</div>
+							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
+							<div class="package__info_check">доменное имя на год;</div>
+							<div class="package__info_check">бесплатный хостинга на <strong>месяц</strong>;</div>
+							<div class="package__info_check">система управления сайтом;</div>
+							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
+							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							<div class="package__info_uncheck">сопровождение 1 месяц</div>
+							
+					</div>
+					<div class="package__item_price">14 000 руб.</div>
+				</div>
+
+				<div class="package__item" style="background: #ffdbc5;">
+					<div class="package__item_header">
+						Pro
+					</div>
+					<div class="package__item_info">
+							<div class="package__info_check">адаптивный дизайн;</div>
+							<div class="package__info_check">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>10</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">формы обратной связи</div>
+							<div class="package__info_check">банер;</div>
+							<div class="package__info_check">слайдер;</div>
+							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
+							<div class="package__info_check">заполнение до <strong>25 позиций</strong> на витрине контентом заказчика;</div>
+							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
+							<div class="package__info_check">доменное имя на год;</div>
+							<div class="package__info_check">бесплатный хостинга на <strong>год</strong>;</div>
+							<div class="package__info_check">система управления сайтом;</div>
+							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
+							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
+							<div class="package__info_check">сопровождение 1 месяц</div>
+							
+					</div>
+					<div class="package__item_price">25 000 руб.</div>
+				</div>
 			</div>
-			<br>
-			<!-- <div class="content_block content_block_slave">
-				<div class="content_block_header content_block_header_slave">Дополнительно заказывают:</div>
-				<ul>
-					<li>создание логотипа;</li>
-					<li>поиск и обработка изображений под тематику сайта;</li>
-					<li>администрирование вашего сайта;</li>
-					<li>создание рекламного ролика;</li>
-					<li>обработка видеоматериалов.</li>
-				</ul>
-			</div> -->
 
 			<div class="brif_container_element">
 				<div class="text">

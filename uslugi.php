@@ -38,14 +38,14 @@
 				<div class="service_box">
 					<a href="sait-katalog.php"><h4>Сайт-каталог</h4></a>
 					<p>Витрина товаров и услуг с их подробным описанием.</p>
-					<div class="text text_price">от <span>35 000 руб.</span>
+					<div class="text text_price">от <span>25 000 руб.</span>
 						<!-- <span style="font-style: italic;"> 25 000 руб.</span> -->
 					</div>
 				</div>
 				<div class="service_box">
 					<a href="internet-magazin.php"><h4>Интернет-магазин</h4></a>
 					<p>Виртуальная площадка для продажи ваших товаров.</p>
-					<div class="text text_price">от <span>39 000 руб.</span>
+					<div class="text text_price">от <span>29 000 руб.</span>
 						<!-- <span style="font-style: italic;"> 29 000 руб.</span> -->
 					</div>
 				</div>
