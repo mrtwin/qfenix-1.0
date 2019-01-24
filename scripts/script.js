@@ -33,6 +33,19 @@ if(this.href==url){$(this).addClass('nav_current');};
 	    return false;
  	});
 
-
-	
 });	
+
+//calc
+
+$(document).ready(function () {
+	var offset = $('#total').offset();
+	var topPadding = 120;
+	$(window).scroll(function() {
+			if ($(window).scrollTop() > offset.top) {
+					$('#total').stop().animate({marginTop: $(window).scrollTop() - offset.top + topPadding});
+			}
+			else {
+					$('#total').stop().animate({marginTop: 0});
+			}
+	});
+});

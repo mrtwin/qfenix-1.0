@@ -712,14 +712,15 @@ section{
 .func_item .checkbox{
 	margin-left: 1rem;
 }
- .total{
-	/* display: block;
-    position: fixed;
-    right: 2%; */
-    /* left: 0; */
-    /* bottom: 30%; */
-    /* top: 40%; */
-    /* width: 100%; */
-    /* height: 70px; */
-    /* z-index: 99; */
+ .total-block{
+	width: auto;
+	/* margin-left: 3rem; */
 } 
+#func_wrap{
+	display: flex;
+}
+#total{
+	/* width:200px; */
+	position:absolute;
+	margin: 2rem;
+}
