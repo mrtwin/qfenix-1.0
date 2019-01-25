@@ -54,12 +54,16 @@
                     <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
                 </div>
                 <div class="func_item">
-                    <label>версия для планшета</label>
-                    <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
+                    <label>версия для ПК</label>
+                    <input type="checkbox" class="checkbox" name="f_design_pc" value="дизайн для ПК">
                 </div>
                 <div class="func_item">
-                    <label>версия для смартфонов</label>
-                    <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
+                    <label>версия для планшета</label>
+                    <input type="checkbox" class="checkbox" name="f_design_pl" value="планшетный дизайн">
+                </div>
+                <div class="func_item">
+                    <label>версия для смартфона</label>
+                    <input type="checkbox" class="checkbox" name="f_design_m" value="дизайн для смартфона">
                 </div>
             </div>
             </div>
@@ -70,15 +74,87 @@
                     </div>
                     <div class="func_item">
                         <label>Главная</label>
-                        <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
+                        <input type="checkbox" class="checkbox" name="f_page_main" value="главная страница">
                     </div>
                     <div class="func_item">
                         <label>О компании</label>
-                        <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
+                        <input type="checkbox" class="checkbox" name="f_page_about" value="страница о компании">
+                    </div>
+                    <div class="func_item">
+                        <label>Документы</label>
+                        <input type="checkbox" class="checkbox" name="f_page_docs" value="страница документы">
+                    </div>
+                    <div class="func_item">
+                        <label>Отзывы клиентов</label>
+                        <input type="checkbox" class="checkbox" name="f_page_reviews" value="страница отзывы">
                     </div>
                     <div class="func_item">
                         <label>Доставка и оплата</label>
-                        <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
+                        <input type="checkbox" class="checkbox" name="f_page_delivery" value="страница доставка и оплата">
+                    </div>
+                    <div class="func_item">
+                        <label>Акции</label>
+                        <input type="checkbox" class="checkbox" name="f_page_sales" value="страница акции">
+                    </div>
+                    <div class="func_item">
+                        <label>Для партнеров</label>
+                        <input type="checkbox" class="checkbox" name="f_page_partners" value="страница для партнеров">
+                    </div>
+                    <div class="func_item">
+                        <label>Оферта</label>
+                        <input type="checkbox" class="checkbox" name="f_page_offer" value="страница оферта">
+                    </div>
+                    <div class="func_item">
+                        <label>Согласие ПД</label>
+                        <input type="checkbox" class="checkbox" name="f_page_personal" value="страница ПД">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="func-block">
+                    <div class="func-block_head">
+                        <p>Функционал</p>
+                    </div>
+                    <div class="func_item">
+                        <label>поиск по сайту</label>
+                        <input type="checkbox" class="checkbox" name="f_site_search" value="поиск по сайту">
+                    </div>
+                    <div class="func_item">
+                        <label>калькулятор услуг</label>
+                        <input type="checkbox" class="checkbox" name="f_calc" value="калькулятор услуг">
+                    </div>
+                    <div class="func_item">
+                        <label>блог</label>
+                        <input type="checkbox" class="checkbox" name="f_blog" value="блог">
+                    </div>
+                    <div class="func_item">
+                        <label>новостной раздел</label>
+                        <input type="checkbox" class="checkbox" name="f_news" value="новости">
+                    </div>
+                    <div class="func_item">
+                        <label>галерея</label>
+                        <input type="checkbox" class="checkbox" name="f_galery" value="галерея">
+                    </div>
+                    <div class="func_item">
+                        <label>раздел для сотрудников</label>
+                        <input type="checkbox" class="checkbox" name="f_employee_page" value="для сотрудников">
+                    </div>
+                    <div class="func_item">
+                        <label>личный кабинет</label>
+                        <input type="checkbox" class="checkbox" name="f_lc" value="личный кабинет">
+                    </div>
+                    <div class="func_item">
+                        <label>витрина товаров</label>
+                        <input type="checkbox" class="checkbox" name="f_wcommerce" value="витрина товаров">
+                    </div>
+                    <div class="func_item">
+                        <label>прием платежей</label>
+                        <input type="checkbox" class="checkbox" name="f_getpay" value="прием платежей">
+                    </div>
+                    <div class="func_item">
+                        <label>вариативные товары</label>
+                        <input type="checkbox" class="checkbox" name="f_variative_product" value="вариативные товары">
                     </div>
                 </div>
             </div>
@@ -102,6 +178,8 @@
                 </div>
             </div>
         </div>
+
+        <!-- плавающий блок -->
 
         <div class="func-right-col">
             <div id="total">
