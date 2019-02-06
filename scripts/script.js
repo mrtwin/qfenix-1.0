@@ -49,3 +49,13 @@ $(document).ready(function () {
 			}
 	});
 });
+
+
+// $('input[name="calc_option"]').val()
+var total =  Number(0);
+$('input[name="calc_option"]').each(function(i,elem) {
+	v=$(elem).val();
+	total = total +  Number(v);
+	alert(v);
+});
+alert(total);

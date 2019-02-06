@@ -51,19 +51,15 @@
                 </div>
                 <div class="func_item">
                     <label>версия для ПК</label>
-                    <input type="checkbox" class="checkbox" name="radio_logo1" value="логотип уже есть">
-                </div>
-                <div class="func_item">
-                    <label>версия для ПК</label>
-                    <input type="checkbox" class="checkbox" name="f_design_pc" value="дизайн для ПК">
+                    <input type="checkbox" class="checkbox" name="calc_option" value="24">
                 </div>
                 <div class="func_item">
                     <label>версия для планшета</label>
-                    <input type="checkbox" class="checkbox" name="f_design_pl" value="планшетный дизайн">
+                    <input type="checkbox" class="checkbox" name="calc_option" value="4">
                 </div>
                 <div class="func_item">
                     <label>версия для смартфона</label>
-                    <input type="checkbox" class="checkbox" name="f_design_m" value="дизайн для смартфона">
+                    <input type="checkbox" class="checkbox" name="calc_option" value="4">
                 </div>
             </div>
             </div>
