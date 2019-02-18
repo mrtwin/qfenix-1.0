@@ -17,14 +17,14 @@
 					<div class="service_box">
 							<a href="sait-budget.php"><h4>Сайт под ваш бюджет</h4></a>
 							<p>Сделаем сайт на любую сумму.</p>
-							<div class="text text_price">от <span>3 000 руб.</span>
+							<div class="text text_price">от <span>4 500 руб.</span>
 								<!-- <span style="font-style: italic; text-decoration: line-through"> 0 руб.</span> -->
 							</div>
 						</div>
 				<div class="service_box">
 					<a href="sait-vizitka.php"><h4>Сайт-визитка</h4></a>
 					<p>Содержит основную информацию об организации и видах услуг.</p>
-					<div class="text text_price">от <span>19 000 руб.</span>
+					<div class="text text_price">от <span>12 000 руб.</span>
 						<!-- <span style="font-style: italic;"> 15 000 руб.</span> -->
 					</div>
 				</div>
@@ -38,21 +38,21 @@
 				<div class="service_box">
 					<a href="sait-katalog.php"><h4>Сайт-каталог</h4></a>
 					<p>Витрина товаров и услуг с их подробным описанием.</p>
-					<div class="text text_price">от <span>25 000 руб.</span>
+					<div class="text text_price">от <span>25 900 руб.</span>
 						<!-- <span style="font-style: italic;"> 25 000 руб.</span> -->
 					</div>
 				</div>
 				<div class="service_box">
 					<a href="internet-magazin.php"><h4>Интернет-магазин</h4></a>
 					<p>Виртуальная площадка для продажи ваших товаров.</p>
-					<div class="text text_price">от <span>29 000 руб.</span>
+					<div class="text text_price">от <span>28 900 руб.</span>
 						<!-- <span style="font-style: italic;"> 29 000 руб.</span> -->
 					</div>
 				</div>
 				<div class="service_box">
 					<a href="landing.php"><h4>Лендинг</h4></a>
 					<p>Превращает посетителей в покупателей.</p>
-					<div class="text text_price">от <span>9 000 руб.</span>
+					<div class="text text_price">от <span>6 900 руб.</span>
 						<!-- <span style="font-style: italic;"> 10 000 руб.</span> -->
 					</div>
 				</div>

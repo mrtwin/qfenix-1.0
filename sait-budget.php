@@ -27,34 +27,15 @@
 			<br>
 			<h2>Готовые пакеты услуг</h2>
 			<div class="row_package">
-				<!-- <div class="package__item">
-					<div class="package__item_header">
-						пакет 2 000
-					</div>
-					<div class="package__item_info">
-						<div class="package__info_check">дизайн на усмотрение исполнителя</div>
-						<div class="package__info_check">количество страниц: 1</div>
-						<div class="package__info_check">банер</div>
-						<div class="package__info_check">заполнение страниц исполнителем</div>
-						<div class="package__info_uncheck">инструкции по управлению сайтом</div>
-						<div class="package__info_uncheck">оплата домена на год</div>
-						<div class="package__info_uncheck">адаптация под экраны телефонов</div>
-						<div class="package__info_uncheck">форма обратной связи</div>
-						<div class="package__info_uncheck">бесплатный хостинг: 1 мес.</div>
-						<div class="package__info_uncheck">регистрация сайта в поисковых системах</div>
-					</div>
-					<div class="package__item_price">2 000 руб.</div>
-				</div> -->
-
 				<div class="package__item">
 					<div class="package__item_header">
-						пакет 3 000
+						пакет 4500
 					</div>
 					<div class="package__item_info">
-						<div class="package__info_check">дизайн на усмотрение исполнителя</div>
+						<div class="package__info_check">современный дизайн</div>
 						<div class="package__info_check">количество страниц: 3</div>
 						<div class="package__info_check">банер</div>
-						<div class="package__info_check">заполнение страниц исполнителем</div>
+						<div class="package__info_check">сведения о компании и услугах</div>
 						<div class="package__info_uncheck">инструкции по управлению сайтом</div>
 						<div class="package__info_uncheck">оплата домена на год</div>
 						<div class="package__info_uncheck">адаптация под экраны телефонов</div>
@@ -62,37 +43,37 @@
 						<div class="package__info_uncheck">бесплатный хостинг: 1 мес.</div>
 						<div class="package__info_uncheck">регистрация сайта в поисковых системах</div>
 					</div>
-					<div class="package__item_price">3 000 руб.</div>
+					<div class="package__item_price">4 500 руб.</div>
 				</div>
 
 				<div class="package__item" style="background: #ffeee2;">
 					<div class="package__item_header">
-						пакет 5 000
+						пакет 6000
 					</div>
 					<div class="package__item_info">
-						<div class="package__info_check">дизайн на усмотрение исполнителя</div>
+					<div class="package__info_check">современный дизайн</div>
 						<div class="package__info_check">количество страниц: 5</div>
 						<div class="package__info_check">банер</div>
-						<div class="package__info_check">заполнение страниц исполнителем</div>
+						<div class="package__info_check">сведения о компании и услугах</div>
 						<div class="package__info_check">инструкции по управлению сайтом</div>
 						<div class="package__info_check">оплата домена на год</div>
 						<div class="package__info_uncheck">адаптация под экраны телефонов</div>
 						<div class="package__info_uncheck">форма обратной связи</div>
-						<div class="package__info_uncheck">бесплатный хостинг: 1 мес.</div>
+						<div class="package__info_check">бесплатный хостинг: 1 мес.</div>
 						<div class="package__info_uncheck">регистрация сайта в поисковых системах</div>
 					</div>
-					<div class="package__item_price">5 000 руб.</div>
+					<div class="package__item_price">6 000 руб.</div>
 				</div>
 
 				<div class="package__item" style="background: #ffdbc5;">
 					<div class="package__item_header">
-						пакет 9 000
+						пакет 8500
 					</div>
 					<div class="package__item_info">
-						<div class="package__info_check">дизайн на усмотрение исполнителя</div>
+					<div class="package__info_check">современный дизайн</div>
 						<div class="package__info_check">количество страниц: 5</div>
 						<div class="package__info_check">банер</div>
-						<div class="package__info_check">заполнение страниц исполнителем</div>
+						<div class="package__info_check">сведения о компании и услугах</div>
 						<div class="package__info_check">инструкции по управлению сайтом</div>
 						<div class="package__info_check">оплата домена на год</div>
 						<div class="package__info_check">адаптация под экраны телефонов</div>
@@ -100,7 +81,7 @@
 						<div class="package__info_check">бесплатный хостинг: 1 мес.</div>
 						<div class="package__info_check">регистрация сайта в поисковых системах</div>
 					</div>
-					<div class="package__item_price">9 000 руб.</div>
+					<div class="package__item_price">8 500 руб.</div>
 				</div>
 			</div>
 			<div class="row_package">

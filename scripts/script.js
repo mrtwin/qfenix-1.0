@@ -56,6 +56,6 @@ var total =  Number(0);
 $('input[name="calc_option"]').each(function(i,elem) {
 	v=$(elem).val();
 	total = total +  Number(v);
-	alert(v);
+	// alert(v);
 });
-alert(total);
+// alert(total);

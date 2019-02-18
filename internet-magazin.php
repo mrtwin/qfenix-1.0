@@ -38,10 +38,12 @@
 					<div class="package__item_info">
 							<div class="package__info_check">адаптивный дизайн;</div>
 							<div class="package__info_uncheck">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
-							<div class="package__info_check">создание и заполнение до <strong>5</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>5</strong> страниц (контакты, оплата, доставка и др.);</div>
 							<div class="package__info_check">1 форма обратной связи</div>
 							<div class="package__info_check">банер;</div>
 							<div class="package__info_uncheck">слайдер;</div>
+							<div class="package__info_uncheck">фотогалерея;</div>
+							<div class="package__info_uncheck">вариативные товары;</div>
 							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
 							<div class="package__info_check">заполнение до <strong>15 позиций</strong> на витрине контентом заказчика;</div>
 							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
@@ -50,10 +52,10 @@
 							<div class="package__info_check">система управления сайтом;</div>
 							<div class="package__info_check">инструкции по обслуживанию сайта.</div>
 							<div class="package__info_check">внутренняя SEO оптимизация страниц, регистрация в поисковых системах;</div>
-							<div class="package__info_uncheck">сопровождение 1 месяц</div>
+							<div class="package__info_check">сопровождение 1 месяц</div>
 							
 					</div>
-					<div class="package__item_price">15 000 руб.</div>
+					<div class="package__item_price">28 900 руб.</div>
 				</div>
 
 				<div class="package__item" style="background: #ffdbc5;">
@@ -63,10 +65,12 @@
 					<div class="package__item_info">
 							<div class="package__info_check">адаптивный дизайн;</div>
 							<div class="package__info_check">главная страница (с описанием преимуществ, блоками популярных товаров, свежих поступлений и т.п.);</div>
-							<div class="package__info_check">создание и заполнение до <strong>10</strong> страниц (о компании, контакты, оплата и доставка и др.);</div>
+							<div class="package__info_check">создание и заполнение до <strong>10</strong> страниц (о компании, контакты, оплата, доставка и др.);</div>
 							<div class="package__info_check">формы обратной связи</div>
 							<div class="package__info_check">банер;</div>
 							<div class="package__info_check">слайдер;</div>
+							<div class="package__info_check">фотогалерея;</div>
+							<div class="package__info_check">вариативные товары;</div>
 							<div class="package__info_check">создание структуры витрины, способов доставки и оплаты;</div>
 							<div class="package__info_check">заполнение до <strong>25 позиций</strong> на витрине контентом заказчика;</div>
 							<div class="package__info_check">адаптация изображений под дизайн сайта;</div>
@@ -78,16 +82,27 @@
 							<div class="package__info_check">сопровождение 1 месяц</div>
 							
 					</div>
-					<div class="package__item_price">29 000 руб.</div>
+					<div class="package__item_price">39 900 руб.</div>
+				</div>
+			</div>
+
+			<div class="btn_container_element ">
+				<div class="batton">
+					<a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">Заказать сайт</a>
 				</div>
 			</div>
 
 			<div class="brif_container_element">
-					<div class="batton">
-						<a href="#getSite" class="popup" onclick="yaCounter48765431.reachGoal('target_clickOnGetSiteBtn'); return true;">Заказать сайт</a>
-					</div>
+				<div class="text">
+					Не нравятся наши пакеты услуг? <br>
+					Предложите свой вариант! Для этого опишите свои пожелания в комментариях Брифа.
 				</div>
-			
+				
+				<div class="batton batton_no_accent">
+					<a href="brif.php" onclick="yaCounter48765431.reachGoal('target_clickOnBrifBtn'); return true;">Заполнить бриф</a>
+				</div>
+			</div>
+
 		</div>
 		
 	</main>
